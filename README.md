@@ -2,6 +2,7 @@
 -----
 This repository contains Simulink models for simulating the dynamic behavior of a quarter-car suspension system, which represents the vertical dynamics of a single wheel of a vehicle.
 The models are commonly used to study ride comfort, suspension performance, and vibration isolation.
+
 **quartercar_model.slx**
 <br>
 Simulink model of a quarter-car suspension system.
